@@ -131,6 +131,8 @@ commands, `@` references, and two-model setup are all in the
   from the desktop app, then use approvals, YOLO, and commands from IM.
 - **[Spec](./docs/SPEC.md)** — engineering contract: architecture, registries,
   data types, and roadmap.
+- **[Codebase tour](./docs/CODEBASE.md)** — guided tour of the Go source (entry
+  points, agent loop, where to change things).
 - **[Migrating from 0.x](./docs/MIGRATING.md)** — moving from the legacy
   TypeScript releases to the 1.0 Go rewrite.
 - **[Checkpoints & rewind](./docs/CHECKPOINTS.md)** — the snapshot-based edit

@@ -39,7 +39,7 @@ go test ./...              # runs the full test suite
 | `internal/serve` | HTTP/SSE server frontend |
 | `internal/checkpoint` | Snapshot-based rewind |
 | `desktop/` | Wails-based desktop app (separate Go module) |
-| `docs/` | Engineering spec, migration guide |
+| `docs/` | Engineering spec, migration guide, [codebase tour](./docs/CODEBASE.md) |
 
 ### Dependency direction
 
